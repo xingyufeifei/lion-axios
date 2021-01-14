@@ -1,0 +1,13 @@
+node_modules
+dist/*
+.structor
+build/dist
+build
+.vscode
+public/main.js
+___metaDistr
+.vscode
+history.html
+.DS_Store
+yarn.lock
+package-lock.json
