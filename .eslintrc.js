@@ -1,27 +1,3 @@
-// {
-//     "env": {
-//         "browser": true,
-//         "es2021": true,
-//         "node": true
-//     },
-//     "extends": [
-//         "eslint:recommended",
-//         "plugin:react/recommended"
-//     ],
-//     "parserOptions": {
-//         "ecmaFeatures": {
-//             "jsx": true
-//         },
-//         "ecmaVersion": 12,
-//         "sourceType": "module"
-//     },
-//     "plugins": [
-//         "react"
-//     ],
-//     "rules": {
-//     }
-// }
-
 module.exports = {
     env: { // env 关键字指定你想启用的环境
       browser: true,

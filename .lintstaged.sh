@@ -1,7 +1,9 @@
+
+
 {
   "*.{js,ts,jsx,tsx}": [
-    "eslint --fix --quiet", // fix = 自动修复，quiet = ESLint报告错误
-    "prettier --write" // 使用 prettier 进行格式化
+    "eslint --fix --quiet",
+    "prettier --write"
   ],
   "*.css": "prettier --write",
   "*.html": "prettier --write",
